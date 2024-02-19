@@ -6,30 +6,18 @@
 #define RPG_COMBAT_H
 #include <vector>
 #include "../Character/Character.h"
-#include "../Player/Player.h"
-#include "../Enemy/Enemy.h"
 
 class Combat {
 private:
     vector<Character*> participants;
-    vector<Player*> partyMembers;
-    vector<Enemy*> enemies;
-
     void combatPrep();
     Character* getTarget(Character* attacker);
 public:
     Combat(vector<Character*> _participants);
-    Combat(vector<Player*> _partyMembers, vector<Enemy*> _enemies);
     Combat();
     void doCombat();
     void addParticipant(Character *participant);
     string toString();
-
-    static int selectAction();
-
-    static int selectActionForIA();
-
-    static int getRandBetweenRange(int i, int i1);
 };
 
 

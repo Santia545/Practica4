@@ -39,11 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "rpg::@6890427a1f51a3e7e1df",
-<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-9dcad1804d7d2f347948.json
-					"jsonFile" : "target-rpg-Debug-b33c84701109e507cc17.json",
-========
-					"jsonFile" : "target-rpg-Debug-fa0b8bc72a9511857e23.json",
->>>>>>>> b96dcfc (Combat example):cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-b34505367b2cdb942366.json
+					"jsonFile" : "target-rpg-Debug-7f20459c93930d859b57.json",
 					"name" : "rpg",
 					"projectIndex" : 0
 				}

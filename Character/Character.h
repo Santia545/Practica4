@@ -15,12 +15,18 @@ protected:
     int attack;
     int defense;
     int speed;
+    bool isPlayer;
 public:
-    Character(string, int, int, int, int);
+    Character(string _name, int _health, int _attack, int _defense, int _speed, bool _isPlayer);
+
+    virtual void doAttack(Character *target) = 0;
+    virtual void takeDamage(int damage) = 0;
+
     string getName();
     int getHealth();
     int getAttack();
     int getDefense();
+    bool getIsPlayer();
     int getSpeed();
     string toString();
 };
