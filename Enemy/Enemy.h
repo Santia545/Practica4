@@ -14,13 +14,12 @@ class Player;
 class Enemy: public Character{
 private:
     int experience;
-    int totalHealth;
-
 public:
     Enemy(string _name, int _health, int _attack, int _defense, int _speed, int _experience);
     void doAttack(Character *target) override;
+    void takeDamage(int damage) override;
     Character* selectTarget(vector<Player*> possibleTargets);
-    int getTotalHealth() const;
+
     int getExperience();
 };
 
