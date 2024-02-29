@@ -3,6 +3,7 @@
 //
 
 #include <iostream>
+#include <cmath>
 #include "Character.h"
 Character::Character(string _name, int _health, int _attack, int _defense, int _speed, bool _isPlayer) {
     name = _name;
@@ -34,7 +35,11 @@ int Character::getSpeed() {
 }
 void Character::takeDamage(int damage) {
     int trueDamage = damage - defense;
-
+    if(isDefending){
+        trueDamage-=int(round((double)defense*.20));
+        //if defense must last 1 round then comment this, if it must last till the character gets attacked then leave it as it is
+        defend(false);
+    }
     health-= trueDamage;
 
     std::cout << name << " took " << trueDamage << " damage!" << endl;
@@ -56,6 +61,8 @@ bool Character::flee(Character*target) {
     return chance > 30;
 }
 
-void Character::doDefense() {
-    isDefending=true;
+void Character::defend(bool state) {
+    isDefending=state;
 }
+
+

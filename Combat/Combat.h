@@ -25,7 +25,11 @@ public:
     void addParticipant(Character *participant);
     string toString();
 
-    int selectAction();
+    static int selectAction();
+
+    static int selectActionForIA();
+
+    static int getRandBetweenRange(int i, int i1);
 };
 
 

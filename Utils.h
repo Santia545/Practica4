@@ -1,8 +1,13 @@
 //
 // Created by Victor Navarro on 15/02/24.
 //
+
+#ifndef UTILS_H
+#define UTILS_H
+
 #include<cstdlib>
 #include<time.h>
+
 namespace combat_utils {
     int getRandBetweenRange(int lowerBound, int upperBound) {
         srand(time(0)); // Use current time as seed for random generator0
@@ -16,3 +21,4 @@ namespace combat_utils {
 
 
 }
+#endif //UTILS_H

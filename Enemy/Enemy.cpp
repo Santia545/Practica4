@@ -11,10 +11,14 @@ using namespace combat_utils;
 
 Enemy::Enemy(string _name, int _health, int _attack, int _defense, int _speed, int _experience) : Character(_name, _health, _attack, _defense, _speed, false) {
     experience = _experience;
+    totalHealth=health;
 }
 
 void Enemy::doAttack(Character *target) {
     target->takeDamage(getRolledAttack(attack));
+}
+int Enemy::getTotalHealth() const {
+    return totalHealth;
 }
 
 int Enemy::getExperience() {
