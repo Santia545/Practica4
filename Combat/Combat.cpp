@@ -6,7 +6,7 @@
 #include <string>
 #include <iostream>
 #include <utility>
-
+#include <algorithm>
 using namespace std;
 
 bool compareSpeed(Character *a, Character *b) {
