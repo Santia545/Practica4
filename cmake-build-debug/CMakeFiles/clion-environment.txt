@@ -1,0 +1,4 @@
+ToolSet: 11.0 w64 (local)@C:\Users\cors9\OneDrive\Documentos\CETI\ING\CLion-2023.3.4.win\bin\mingw
+Options: 
+
+Options:

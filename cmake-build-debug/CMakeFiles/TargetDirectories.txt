@@ -1,0 +1,3 @@
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/cmake-build-debug/CMakeFiles/rpg.dir
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
