@@ -97,7 +97,7 @@ void Combat::doCombat() {
                 cout << (((double) (*it)->getHealth()) / ((double) ((Enemy *) *it)->getTotalHealth())) << endl;
                 cout << (((((double) (*it)->getHealth()) / ((double) ((Enemy *) *it)->getTotalHealth())) < 0.15)?"true":"false" )<< endl;
                 */
-                if ((((double) (*it)->getHealth()) / ((double) ((Enemy *) *it)->getTotalHealth())) < 0.9) {
+                if ((((double) (*it)->getHealth()) / ((double) ((Enemy *) *it)->getTotalHealth())) < 0.15) {
                     selectedAction = selectActionForIA();
                 } else {
                     selectedAction = 0;
