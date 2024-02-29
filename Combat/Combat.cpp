@@ -79,8 +79,12 @@ void Combat::doCombat() {
         while(it != participants.end()) {
             Character* target = nullptr;
             if((*it)->getIsPlayer()) {
+                if(selectAction()==0){
+                    target = ((Player *) *it)->selectTarget(enemies);
+                }else{
+                    ((Player *) *it)->doDefense();
+                }
                 // TODO: Tarea Jugador debe poder elegir entre atacar y defender
-                target = ((Player *) *it)->selectTarget(enemies);
             } else {
                 // TODO: si el enemigo tiene menos del 15% de vida, hay una probabilidad del 40% de que se defienda
                 target = ((Enemy *) *it)->selectTarget(partyMembers);
@@ -107,4 +111,9 @@ void Combat::doCombat() {
             }
         }
     }
+}
+
+int Combat::selectAction() {
+
+    return 0;
 }

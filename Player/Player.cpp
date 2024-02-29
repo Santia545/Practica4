@@ -16,14 +16,7 @@ void Player::doAttack(Character *target) {
     target->takeDamage(attack);
 }
 
-void Player::takeDamage(int damage) {
-    int trueDamage = damage - defense;
 
-    health-= trueDamage;
-
-    cout << name << " took " << trueDamage << " damage!" << endl;
-
-}
 
 void Player::levelUp() {
     level++;
@@ -39,12 +32,19 @@ void Player::gainExperience(int exp) {
 
 Character* Player::selectTarget(vector<Enemy*> possibleTargets) {
     int selectedTarget = 0;
+    int enemyCount=0;
     cout << "Select a target: " << endl;
-    for (int i = 0; i < possibleTargets.size(); i++) {
+    enemyCount=possibleTargets.size();
+    for (int i = 0; i <  enemyCount; i++) {
         cout << i << ". " << possibleTargets[i]->getName() << endl;
     }
-
-    //TODO: Add input validation
-    cin >> selectedTarget;
+    while(true){
+        cin >> selectedTarget;
+        if(selectedTarget>=enemyCount || selectedTarget<0){
+            cout<<"Nice try, enter a valid enemy id"<<endl;
+        }else{
+            break;
+        }
+    }
     return possibleTargets[selectedTarget];
 }

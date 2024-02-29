@@ -24,6 +24,8 @@ public:
     void doCombat();
     void addParticipant(Character *participant);
     string toString();
+
+    int selectAction();
 };
 
 
