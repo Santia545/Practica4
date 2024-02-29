@@ -6,6 +6,8 @@ CMakeFiles/rpg.dir/Character/Character.cpp.obj: C:/Users/cors9/OneDrive/Document
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
@@ -13,17 +15,27 @@ CMakeFiles/rpg.dir/Character/Character.cpp.obj: C:/Users/cors9/OneDrive/Document
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.tcc \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
@@ -39,6 +51,8 @@ CMakeFiles/rpg.dir/Character/Character.cpp.obj: C:/Users/cors9/OneDrive/Document
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
@@ -51,149 +65,42 @@ CMakeFiles/rpg.dir/Character/Character.cpp.obj: C:/Users/cors9/OneDrive/Document
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stddef.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/syslimits.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/_mingw.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/_mingw_mac.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/_mingw_secapi.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/crtdefs.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/ctype.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/errno.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/limits.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/locale.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/malloc.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/stddef.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/stdlib.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/vadefs.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/wchar.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Character/Character.h
-
-CMakeFiles/rpg.dir/Combat/Action.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Combat/Action.cpp \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Character/Character.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/concept_check.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/localefwd.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/range_access.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwchar \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++locale.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/limits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h \
@@ -204,7 +111,9 @@ CMakeFiles/rpg.dir/Combat/Action.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CET
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/_mingw_off_t.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/_mingw_secapi.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/_timeval.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/corecrt_startup.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/crtdefs.h \
@@ -213,25 +122,35 @@ CMakeFiles/rpg.dir/Combat/Action.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CET
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/limits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/locale.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/malloc.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/process.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/pthread.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/pthread_compat.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/pthread_signal.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/pthread_time.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/pthread_unistd.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sec_api/wchar_s.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/signal.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/stddef.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/stdlib.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sys/timeb.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sys/types.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/time.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/vadefs.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/wchar.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Combat/Action.h
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/wctype.h \
+  C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Character/Character.h
 
 CMakeFiles/rpg.dir/Combat/Combat.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Combat/Combat.cpp \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Character/Character.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Combat/Action.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Enemy/Enemy.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Player/Player.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
@@ -247,17 +166,12 @@ CMakeFiles/rpg.dir/Combat/Combat.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CET
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/deque.tcc \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
@@ -271,7 +185,6 @@ CMakeFiles/rpg.dir/Combat/Combat.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CET
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
@@ -281,19 +194,16 @@ CMakeFiles/rpg.dir/Combat/Combat.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CET
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_deque.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_queue.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
@@ -303,7 +213,6 @@ CMakeFiles/rpg.dir/Combat/Combat.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CET
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
@@ -311,7 +220,6 @@ CMakeFiles/rpg.dir/Combat/Combat.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CET
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
@@ -319,15 +227,12 @@ CMakeFiles/rpg.dir/Combat/Combat.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CET
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/deque \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
@@ -338,7 +243,6 @@ CMakeFiles/rpg.dir/Combat/Combat.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CET
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/queue \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
@@ -348,7 +252,6 @@ CMakeFiles/rpg.dir/Combat/Combat.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CET
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
@@ -408,13 +311,10 @@ CMakeFiles/rpg.dir/Combat/Combat.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CET
 
 CMakeFiles/rpg.dir/Enemy/Enemy.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Enemy/Enemy.cpp \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Character/Character.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Combat/Action.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Player/Player.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Utils.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h \
@@ -427,16 +327,12 @@ CMakeFiles/rpg.dir/Enemy/Enemy.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
@@ -450,7 +346,6 @@ CMakeFiles/rpg.dir/Enemy/Enemy.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
@@ -460,26 +355,20 @@ CMakeFiles/rpg.dir/Enemy/Enemy.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
@@ -487,7 +376,6 @@ CMakeFiles/rpg.dir/Enemy/Enemy.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
@@ -496,13 +384,11 @@ CMakeFiles/rpg.dir/Enemy/Enemy.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
@@ -520,7 +406,6 @@ CMakeFiles/rpg.dir/Enemy/Enemy.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
@@ -579,12 +464,9 @@ CMakeFiles/rpg.dir/Enemy/Enemy.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/
 
 CMakeFiles/rpg.dir/Player/Player.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Player/Player.cpp \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Character/Character.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Combat/Action.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Enemy/Enemy.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h \
@@ -597,16 +479,12 @@ CMakeFiles/rpg.dir/Player/Player.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CET
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
@@ -620,7 +498,6 @@ CMakeFiles/rpg.dir/Player/Player.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CET
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
@@ -630,26 +507,20 @@ CMakeFiles/rpg.dir/Player/Player.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CET
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
@@ -657,7 +528,6 @@ CMakeFiles/rpg.dir/Player/Player.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CET
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
@@ -666,13 +536,11 @@ CMakeFiles/rpg.dir/Player/Player.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CET
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
@@ -690,7 +558,6 @@ CMakeFiles/rpg.dir/Player/Player.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CET
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
@@ -749,12 +616,9 @@ CMakeFiles/rpg.dir/Player/Player.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CET
 
 CMakeFiles/rpg.dir/main.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/main.cpp \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Character/Character.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Combat/Action.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Enemy/Enemy.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bit \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/alloc_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/allocator.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h \
@@ -767,17 +631,12 @@ CMakeFiles/rpg.dir/main.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Se
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cpp_type_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/deque.tcc \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functional_hash.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
@@ -791,7 +650,6 @@ CMakeFiles/rpg.dir/main.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Se
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/new_allocator.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream_insert.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h \
@@ -801,28 +659,20 @@ CMakeFiles/rpg.dir/main.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Se
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/refwrap.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algobase.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_bvector.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_deque.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_queue.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uses_allocator_args.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h \
@@ -830,7 +680,6 @@ CMakeFiles/rpg.dir/main.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Se
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cctype \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/clocale \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdio \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib \
@@ -838,15 +687,12 @@ CMakeFiles/rpg.dir/main.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Se
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/deque \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/type_traits.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd \
@@ -855,7 +701,6 @@ CMakeFiles/rpg.dir/main.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Se
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/queue \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/streambuf \
@@ -865,7 +710,6 @@ CMakeFiles/rpg.dir/main.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Se
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/tuple \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo \
-  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
@@ -924,10 +768,6 @@ CMakeFiles/rpg.dir/main.cpp.obj: C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Se
   C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Player/Player.h
 
 
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/ctype.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h:
-
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memoryfwd.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward/binders.h:
@@ -936,13 +776,9 @@ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Character/Character.cpp:
 
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view:
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h:
 
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc:
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/error_constants.h:
 
@@ -964,6 +800,22 @@ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.h:
 
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/assertions.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/ctype.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/char_traits.h:
+
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_pair.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/vadefs.h:
@@ -980,23 +832,39 @@ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_forced.h:
 
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h:
+
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_defines.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/functexcept.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sys/types.h:
 
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/deque.tcc:
-
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hash_bytes.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_abs.h:
 
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h:
+
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf_iterator.h:
 
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/invoke.h:
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.tcc:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/pthread_unistd.h:
 
@@ -1012,13 +880,13 @@ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/memory_resource.h:
 
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd:
-
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/predefined_ops.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/locale.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/move.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/_mingw_mac.h:
 
@@ -1032,8 +900,6 @@ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/postypes.h:
 
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h:
-
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ptr_traits.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h:
@@ -1042,13 +908,7 @@ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_construct.h:
 
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/utility.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_function.h:
-
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/algorithm:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/array:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstdlib:
 
@@ -1056,7 +916,7 @@ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_funcs.h:
 
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_iterator_base_types.h:
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc:
 
@@ -1064,13 +924,19 @@ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstddef:
 
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype:
+
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/process.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug/debug.h:
 
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h:
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception:
 
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string:
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/alloc_traits.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/numeric_traits.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/string_conversions.h:
 
@@ -1078,11 +944,33 @@ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/initializer_list:
 
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iosfwd:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/corecrt_wstdlib.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream:
+
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/new:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/pstl_config.h:
 
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept:
+
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdlib.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string_view:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sec_api/wchar_s.h:
 
@@ -1090,7 +978,11 @@ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/type_traits:
 
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Combat/Action.cpp:
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/pthread.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h:
 
@@ -1102,9 +994,13 @@ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h:
 
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/system_error:
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h:
 
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h:
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/mm_malloc.h:
 
@@ -1120,13 +1016,13 @@ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/_mingw_stat64.h:
 
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/_timeval.h:
+
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/corecrt.h:
 
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/corecrt_startup.h:
+
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/corecrt_wstdlib.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/crtdefs.h:
 
@@ -1136,9 +1032,17 @@ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/malloc.h:
 
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/pthread_compat.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/pthread_signal.h:
+
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sec_api/stdlib_s.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/signal.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/stddef.h:
 
@@ -1148,25 +1052,19 @@ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/swprintf.inl:
 
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sys/timeb.h:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/time.h:
+
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/wchar.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Character/Character.h:
 
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Combat/Combat.cpp:
+
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Player/Player.h:
+
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sys/timeb.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/erase_if.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/hashtable_policy.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/node_handle.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/std_function.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_algo.h:
 
@@ -1174,117 +1072,25 @@ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h:
 
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h:
+
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_tempbuf.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h:
 
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/deque:
-
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h:
 
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/unordered_map.h:
-
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/vector.tcc:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/compare:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/aligned_buffer.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/functional:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/pthread.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/typeinfo:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/unordered_map:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Combat/Action.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Combat/Combat.cpp:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Player/Player.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/cxxabi_init_exception.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/exception_ptr.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ios_base.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_classes.tcc:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.tcc:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/nested_exception.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_deque.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_queue.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_relops.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/streambuf.tcc:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/exception:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ext/atomicity.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/execution_defs.h:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/pstl/glue_algorithm_defs.h:
 
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/queue:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/stdexcept:
-
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/utility:
 
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr-default.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/gthr.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/_timeval.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/corecrt_startup.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/pthread_compat.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/pthread_signal.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/signal.h:
-
-C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/time.h:
+C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector:
 
 C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Combat/Combat.h:
 

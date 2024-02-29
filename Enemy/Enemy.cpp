@@ -18,16 +18,6 @@ void Enemy::doAttack(Character *target) {
     target->takeDamage(getRolledAttack(attack));
 }
 
-void Enemy::takeDamage(int damage) {
-    int trueDamage = damage - defense;
-    health-= trueDamage;
-
-    cout << name << " took " << trueDamage << " damage!" << endl;
-    if(health <= 0) {
-        cout << name << " has been defeated!" << endl;
-    }
-}
-
 int Enemy::getExperience() {
     return experience;
 }
@@ -43,17 +33,4 @@ Character* Enemy::selectTarget(vector<Player*> possibleTargets) {
         }
     }
     return target;
-}
-
-Action Enemy::takeAction(vector<Player*> partyMembers) {
-    Action currentAction;
-    currentAction.speed = getSpeed();
-
-    Character* target = selectTarget(partyMembers);
-    currentAction.target = target;
-    currentAction.action = [this, target](){
-        doAttack(target);
-    };
-
-    return currentAction;
 }
