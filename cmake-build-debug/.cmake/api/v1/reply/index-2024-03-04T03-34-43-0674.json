@@ -44,7 +44,11 @@
 			}
 		},
 		{
+<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/index-2024-03-04T03-34-43-0674.json
 			"jsonFile" : "cmakeFiles-v1-e714c1419444049a0b6a.json",
+========
+			"jsonFile" : "cmakeFiles-v1-4e87c507816d741de966.json",
+>>>>>>>> f344db7 (working commit with profe changes):cmake-build-debug/.cmake/api/v1/reply/index-2024-03-04T03-26-14-0044.json
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -76,7 +80,11 @@
 		},
 		"cmakeFiles-v1" : 
 		{
+<<<<<<<< HEAD:cmake-build-debug/.cmake/api/v1/reply/index-2024-03-04T03-34-43-0674.json
 			"jsonFile" : "cmakeFiles-v1-e714c1419444049a0b6a.json",
+========
+			"jsonFile" : "cmakeFiles-v1-4e87c507816d741de966.json",
+>>>>>>>> f344db7 (working commit with profe changes):cmake-build-debug/.cmake/api/v1/reply/index-2024-03-04T03-26-14-0044.json
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
