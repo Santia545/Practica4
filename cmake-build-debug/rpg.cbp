@@ -88,6 +88,12 @@
 		<Unit filename="C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Character/Character.h">
 			<Option target="rpg"/>
 		</Unit>
+		<Unit filename="C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Combat/Action.cpp">
+			<Option target="rpg"/>
+		</Unit>
+		<Unit filename="C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Combat/Action.h">
+			<Option target="rpg"/>
+		</Unit>
 		<Unit filename="C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Combat/Combat.cpp">
 			<Option target="rpg"/>
 		</Unit>
