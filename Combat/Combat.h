@@ -29,12 +29,6 @@ public:
     void doCombat();
     void addParticipant(Character *participant);
     string toString();
-
-    static int selectAction();
-
-    static int selectActionForIA();
-
-    static int getRandBetweenRange(int i, int i1);
 };
 
 
