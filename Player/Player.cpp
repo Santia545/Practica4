@@ -55,7 +55,7 @@ Character* Player::selectTarget(vector<Enemy*> possibleTargets) {
 Action Player::takeAction(vector<Enemy*> enemies) {
     int action = 0;
     cout << "Select an action: " << endl
-         << "1. Attack" << endl;
+    << "1. Attack" << endl;
 
     //TODO: Validate input
     cin >> action;
