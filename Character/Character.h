@@ -16,6 +16,7 @@ protected:
     int defense;
     int speed;
     bool isPlayer;
+    bool isDefending=false;
 public:
     Character(string _name, int _health, int _attack, int _defense, int _speed, bool _isPlayer);
 
@@ -24,7 +25,7 @@ public:
 
     //TODO: Implementar metodo de defensa
     //Incrementar la defensa un 20% solo por el turno actual
-    void defend();
+    void defend(bool state);
 
     bool flee(Character* target);
     string getName();
