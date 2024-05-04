@@ -4,7 +4,7 @@
 
 #include "Character.h"
 Character::Character(const char _name[], int _health, int _attack, int _defense, int _speed, bool _isPlayer) {
-    memcpy(name, _name, sizeof(name));
+    strcpy(name, _name);
     health = _health;
     attack = _attack;
     defense = _defense;
