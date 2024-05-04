@@ -18,7 +18,7 @@ protected:
     bool isPlayer;
     bool isDefending=false;
 public:
-    Character(char _name[], int _health, int _attack, int _defense, int _speed, bool _isPlayer);
+    Character(const char _name[], int _health, int _attack, int _defense, int _speed, bool _isPlayer);
 
     virtual void doAttack(Character *target) = 0;
     virtual void takeDamage(int damage) = 0;

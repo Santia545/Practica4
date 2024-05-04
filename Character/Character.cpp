@@ -3,7 +3,7 @@
 //
 
 #include "Character.h"
-Character::Character(char _name[], int _health, int _attack, int _defense, int _speed, bool _isPlayer) {
+Character::Character(const char _name[], int _health, int _attack, int _defense, int _speed, bool _isPlayer) {
     memcpy(name, _name, sizeof(name));
     health = _health;
     attack = _attack;
