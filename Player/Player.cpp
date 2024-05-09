@@ -51,13 +51,23 @@ void Player::gainExperience(int exp) {
 
 Character *Player::selectTarget(vector<Enemy *> possibleTargets) {
     int selectedTarget = 0;
-    cout << "Select a target: " << endl;
-    for (int i = 0; i < possibleTargets.size(); i++) {
-        cout << i << ". " << possibleTargets[i]->getName() << endl;
-    }
-
-    //TODO: Add input validation
-    cin >> selectedTarget;
+    bool invalid = true;
+    do {
+        cout << "Select a target: " << endl;
+        for (int i = 0; i < possibleTargets.size(); i++) {
+            cout << i << ". " << possibleTargets[i]->getName() << endl;
+        }
+        cin >> selectedTarget;
+        for (int i = 0; i < possibleTargets.size(); i++) {
+            if (selectedTarget == i) {
+                invalid = false;
+                break;
+            }
+        }
+        if (invalid) {
+            cout << "Invalid option" << endl;
+        }
+    } while (invalid);
     return possibleTargets[selectedTarget];
 }
 

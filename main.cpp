@@ -5,21 +5,27 @@
 
 
 int main() {
-    Player *player = new Player("Victor", 100, 15, 4, 3);
-    Enemy *enemy = new Enemy("Goblin", 50, 6, 2, 5, 120);
-    Enemy *enemy2 = new Enemy("Orc", 25, 6, 2, 5, 120);
+    string resp = "";
+    do {
 
-    vector<Character*> participants;
+        Player *player = new Player("Victor", 100, 15, 4, 3);
+        Enemy *enemy = new Enemy("Goblin", 50, 6, 2, 5, 120);
+        Enemy *enemy2 = new Enemy("Orc", 25, 6, 2, 5, 120);
 
-    participants.push_back(player);
-    participants.push_back(enemy);
-    participants.push_back(enemy2);
+        vector<Character *> participants;
 
-    Combat *combat = new Combat(participants);
-    combat->doCombat();
+        participants.push_back(player);
+        participants.push_back(enemy);
+        participants.push_back(enemy2);
 
-    delete player;
-    delete enemy;
-    delete combat;
+        Combat *combat = new Combat(participants);
+        combat->doCombat();
+
+        delete player;
+        delete enemy;
+        delete combat;
+        cout << "Want to continue?? Y(yes) | any other char(no)" << endl;
+        cin >> resp;
+    } while (resp == "Y" || resp =="y" );
     return 0;
 }
