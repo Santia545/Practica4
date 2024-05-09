@@ -8,8 +8,10 @@
 
 using namespace std;
 
-Player::Player(const char _name[], int _health, int _attack, int _defense, int _speed) : Character(_name, _health, _attack,
-                                                                                             _defense, _speed, true) {
+Player::Player(const char _name[], int _health, int _attack, int _defense, int _speed) : Character(_name, _health,
+                                                                                                   _attack,
+                                                                                                   _defense, _speed,
+                                                                                                   true) {
     level = 1;
     experience = 0;
 }
@@ -35,13 +37,15 @@ void Player::takeDamage(int damage) {
 
 void Player::levelUp() {
     level++;
+    cout << "Player " << name << " is now level: " << level << " with an xp of " << experience << endl;
+    cout << "as a reward " << name << " has been healed with an extra 20hp, current hp now is: " << getHealth() << endl;
 }
 
 void Player::gainExperience(int exp) {
     experience += exp;
     if (experience >= 100) {
+        experience = experience - 100;
         levelUp();
-        experience = 100 - experience;
     }
 }
 
@@ -75,6 +79,9 @@ Action Player::takeAction(vector<Enemy *> enemies) {
                 currentAction.target = target;
                 currentAction.action = [this, target]() {
                     doAttack(target);
+                    if (target->getHealth() <= 0) {
+                        this->gainExperience(((Enemy *) target)->getExperience());
+                    }
                 };
                 currentAction.speed = getSpeed();
                 break;

@@ -104,6 +104,9 @@ CMakeFiles/rpg.dir/Combat/Combat.cpp.obj: \
  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cerrno \
  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/charconv.h \
  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_string.tcc \
+ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cstring \
+ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/string.h \
+ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/x86_64-w64-mingw32/include/sec_api/string_s.h \
  C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Player/Player.h \
  C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Character/Character.h \
  C:/Users/cors9/OneDrive/Documentos/CETI/ING/2Semestre/POO/Practica4/Enemy/Enemy.h \

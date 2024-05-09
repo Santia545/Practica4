@@ -5,10 +5,9 @@
 
 
 int main() {
-    char test[] = "Victor";
-    Player *player = new Player("Victor", 100, 10, 4, 3);
-    Enemy *enemy = new Enemy("Goblin", 50, 6, 2, 5, 10);
-    Enemy *enemy2 = new Enemy("Orc", 25, 6, 2, 5, 10);
+    Player *player = new Player("Victor", 100, 15, 4, 3);
+    Enemy *enemy = new Enemy("Goblin", 50, 6, 2, 5, 120);
+    Enemy *enemy2 = new Enemy("Orc", 25, 6, 2, 5, 120);
 
     vector<Character*> participants;
 
