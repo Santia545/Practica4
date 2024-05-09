@@ -44,7 +44,7 @@ public:
 
     int getSpeed();
 
-    string toString();
+    virtual string toString();
 };
 
 

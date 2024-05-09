@@ -180,4 +180,9 @@ CMakeFiles/rpg.dir/main.cpp.obj: \
  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/deque \
  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_deque.h \
  C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/deque.tcc \
- C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_queue.h
+ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_queue.h \
+ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/fstream \
+ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h \
+ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
+ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
+ C:/Users/cors9/OneDrive/Documentos/CETI/ING/CLion-2023.3.4.win/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fstream.tcc
