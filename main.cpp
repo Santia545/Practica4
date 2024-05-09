@@ -44,8 +44,8 @@ int main() {
             player = new Player("Victor", 100, 15, 4, 3);
         }
 
-        Enemy *enemy = new Enemy("Goblin", 50, 6, 2, 5, 120);
-        Enemy *enemy2 = new Enemy("Orc", 50, 6, 2, 5, 120);
+        Enemy *enemy = new Enemy("Goblin", 60, 7, 3, 3, 120);
+        Enemy *enemy2 = new Enemy("Orc", 50, 6, 2, 5, 100);
 
         vector<Character *> participants;
 
