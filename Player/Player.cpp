@@ -21,6 +21,8 @@ void Player::doAttack(Character *target) {
 }
 
 void Player::takeDamage(int damage) {
+    //its like increasing the value of the enemy attack when the level upgrades
+    damage = damage+level;
     int trueDamage = damage - defense;
     if (isDefending) {
         trueDamage -= int(round((double) defense * .20));
